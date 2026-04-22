@@ -2,7 +2,7 @@
 
 I'm a full-stack developer with a backend focus, currently working with **MintMe**.
 
-I like building practical systems: APIs, dashboards, business workflows, and Web3 experiments that move from idea to working product. My main stack is **NestJS**, **Laravel**, **Vue**, and **Solidity/Foundry**.
+I like building practical systems: APIs, dashboards, business workflows, and Web3 experiments that move from idea to working product. My main stack is **NestJS**, **Laravel/Symfony**, **Vue**, and **Solidity/Foundry**.
 
 [![Website](https://img.shields.io/badge/Website-mohiebi.com-0A66C2?style=for-the-badge)](https://mohiebi.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mohiebi-181717?style=for-the-badge&logo=github)](https://github.com/mohiebi)
@@ -10,7 +10,7 @@ I like building practical systems: APIs, dashboards, business workflows, and Web
 ## What I Build
 
 - Backend services with **NestJS**, **TypeScript**, REST APIs, validation, authentication, and clean module structure
-- Web applications with **Laravel**, **PHP**, MySQL, queues, admin panels, and business logic
+- Web applications with **PHP**, **Laravel**, **Symfony**, MySQL, queues, admin panels, and business logic
 - Frontend interfaces with **Vue**, JavaScript, Tailwind CSS, and practical dashboard UX
 - Smart contracts with **Solidity** and **Foundry**, including testing, deployment scripts, and local chain workflows
 
@@ -25,13 +25,18 @@ I like building practical systems: APIs, dashboards, business workflows, and Web
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-222222?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Public Repositories
