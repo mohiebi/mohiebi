@@ -63,9 +63,7 @@ I like building practical systems: APIs, dashboards, business workflows, and Web
 
 ## GitHub Stats
 
-![Mohi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohiebi&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiebi&layout=compact&theme=default)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mohiebi)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## Contact
 
