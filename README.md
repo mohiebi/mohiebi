@@ -53,7 +53,7 @@
         <img src="https://img.shields.io/badge/PHPUnit-6C78AF?style=flat-square"/>
       </p>
       <p>Database-backed service packages, public service pages, and dashboard — built to present work as business outcomes, not code samples.</p>
-      <br/>
+      <br/><br/>
       <a href="https://mohiebi.com"><img src="https://img.shields.io/badge/Live_Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
       &nbsp;
       <a href="https://github.com/mohiebi/Portfolio"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -77,7 +77,7 @@
       <h3>Mahdieh Design</h3>
       <p><i>Client portfolio — polished product sample for creative work</i></p>
       <p>Portfolio presentation and personal branding built for a creative client — focused on trust, visual quality, and conversion-focused layout.</p>
-      <br/>
+      <br/><br/>
       <a href="https://mahdiehdesign.com"><img src="https://img.shields.io/badge/Live_Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
       &nbsp;
       <a href="https://github.com/mohiebi/mahdieh-design"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -88,8 +88,6 @@
 ---
 
 ## Tech Stack
-
-<div align="center">
 
 `backend` &nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -118,8 +116,6 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-222222?style=flat-square)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-</div>
 
 ---
 
