@@ -53,7 +53,7 @@
         <img src="https://img.shields.io/badge/PHPUnit-6C78AF?style=flat-square"/>
       </p>
       <p>Database-backed service packages, public service pages, and dashboard — built to present work as business outcomes, not code samples.</p>
-      <br/><br/>
+      <br/>
       <a href="https://mohiebi.com"><img src="https://img.shields.io/badge/Live_Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
       &nbsp;
       <a href="https://github.com/mohiebi/Portfolio"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -71,11 +71,20 @@
       </p>
       <p>CSV import with validation and duplicate detection — handles Persian digit normalization, Jalali calendar, and Rial→Toman conversion for local bank data.</p>
       <br/>
+      <a href="https://cashpilot.mohiebi.com"><img src="https://img.shields.io/badge/Live_Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+      &nbsp;
       <a href="https://github.com/mohiebi/FinanceManager"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>Mahdieh Design</h3>
       <p><i>Client portfolio — polished product sample for creative work</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHPUnit-6C78AF?style=flat-square"/>
+      </p>
       <p>Portfolio presentation and personal branding built for a creative client — focused on trust, visual quality, and conversion-focused layout.</p>
       <br/><br/>
       <a href="https://mahdiehdesign.com"><img src="https://img.shields.io/badge/Live_Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
@@ -89,33 +98,48 @@
 
 ## Tech Stack
 
-backend &nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-frontend &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-
-data & infra &nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-ai & web3 &nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-222222?style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<table>
+  <tr>
+    <td><code>backend</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><code>frontend</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><code>data & infra</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><code>ai & web3</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Foundry-222222?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
