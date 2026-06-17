@@ -8,20 +8,46 @@ I like turning messy workflows into clean products: APIs, dashboards, Telegram b
 [![GitHub](https://img.shields.io/badge/GitHub-mohiebi-181717?style=for-the-badge&logo=github)](https://github.com/mohiebi)
 [![Telegram Bot](https://img.shields.io/badge/AI_Routine_Coach-Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIRoutineCoachBot)
 
-## Engineering Snapshot
+## Tech Stack
 
-- **1.57k+ commits this year**
-- **86+ commits this month**
-- **24 pull requests**
-- **20 issues**
-- **90+ real production tasks completed in Symfony/Vue**
-- **Multiple Laravel, NestJS, Vue, React, AI, automation, and Web3 projects built**
-- **Product focus:** business automation, dashboards, AI workflows, finance tools, Telegram bots, and portfolio-grade web platforms
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Database, DevOps & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FF6C37?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### AI & Web3
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-222222?style=for-the-badge)
 
 ## What I Build
 
-- Backend services with NestJS, TypeScript, REST APIs, validation, authentication, queues, and clean module boundaries
-- Laravel/Inertia products with dashboards, business logic, admin workflows, policies, testing, and database-backed content
+- Backend services with REST APIs, authentication, validation, queues, background jobs, and clean module boundaries
+- Laravel/Inertia products with dashboards, business logic, policies, testing, and database-backed content
 - AI-assisted systems where AI enhances the product without replacing deterministic core logic
 - Automation platforms for finance, routines, workflows, operations, and business processes
 - Frontend interfaces with Vue, React, TypeScript, Tailwind CSS, animation, and product-focused UX
@@ -80,14 +106,14 @@ Personal finance dashboard for tracking costs, incomes, categories, and CSV-base
 
 ### Mahdieh Design / Cutie Portfolio Case Study
 
-A portfolio website built as a real client/product sample for presenting design work with a polished public-facing experience.
+A portfolio website built as a real product sample for presenting creative work with a polished public-facing experience.
 
 **Focus:** portfolio presentation, personal branding, responsive UI, visual storytelling, and conversion-focused layout
 
-- Built as a product sample/case study
+- Built as a product sample and case study
 - Designed to present creative work professionally
 - Focused on visual quality, trust, and clear service presentation
-- Currently private repository, public website available
+- Public website available while the repository is currently private
 
 [Live Website](https://mahdiehdesign.com)
 
@@ -112,23 +138,6 @@ A portfolio website built as a real client/product sample for presenting design 
 - [FundMe](https://github.com/mohiebi/FundMe)
 - [Lottery](https://github.com/mohiebi/Lottery)
 - [SimpleStorage](https://github.com/mohiebi/SimpleStorage)
-
-## Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-222222?style=for-the-badge)
 
 ## GitHub Stats
 
