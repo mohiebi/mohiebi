@@ -1,123 +1,221 @@
-# Mohammad Hosein
+<div align="center">
 
-Backend-focused full-stack engineer building Laravel, NestJS, automation, AI, and Web3 products.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E293B,100:22C55E&height=220&section=header&text=Mohammad%20Hosein&fontSize=56&fontColor=F8FAFC&fontAlignY=38&desc=Backend-Focused%20Full-Stack%20Engineer&descAlignY=62&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
-I turn messy business workflows into clean systems: APIs, dashboards, Telegram bots, finance tools, automation platforms, portfolio websites, and SaaS-style applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&repeat=true&width=720&lines=Building+Laravel+%26+NestJS+products+that+ship;Turning+messy+workflows+into+clean+systems;AI+integrations+without+replacing+business+logic;Web3+%7C+Automation+%7C+SaaS+%7C+Telegram+Bots" alt="Typing SVG"/>
 
-[![Website](https://img.shields.io/badge/Website-mohiebi.com-0A66C2?style=for-the-badge)](https://mohiebi.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mohiebi-181717?style=for-the-badge&logo=github)](https://github.com/mohiebi)
-[![Telegram Bot](https://img.shields.io/badge/AI_Routine_Coach-Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIRoutineCoachBot)
+<br/><br/>
 
-## Featured Work
+[![Website](https://img.shields.io/badge/mohiebi.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohiebi.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/@mohiebi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohiebi)
+&nbsp;
+[![Telegram Bot](https://img.shields.io/badge/AI_Routine_Coach-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIRoutineCoachBot)
 
-### AI Routine Coach
+![Profile Views](https://komarev.com/ghpvc/?username=mohiebi&color=22C55E&style=flat-square&label=Profile+Views)
 
-Telegram-based routine tracking and premium AI coaching platform.
+</div>
 
-**Stack:** NestJS, TypeScript, PostgreSQL, Prisma, Redis, BullMQ, Telegraf, OpenAI, Docker, Swagger
-
-- Deterministic core for goals, routines, daily tasks, check-ins, streaks, health scores, reviews, notifications, and dashboards
-- Premium AI layer for coaching, goal review, routine recommendations, progress insights, and routine optimization
-- Crypto checkout flow with EVM stablecoin payment verification
-- AI usage logging, structured JSON outputs, DTO validation, and cost tracking
-
-[![Telegram Bot](https://img.shields.io/badge/Open_Bot-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AIRoutineCoachBot)
-[![Repository](https://img.shields.io/badge/Repository-AI_Routine_Coach-181717?style=flat-square&logo=github)](https://github.com/mohiebi/AI-Routine-Coach)
+<br/>
 
 ---
 
-### Portfolio / Business Services Platform
+## Featured Projects
 
-Personal portfolio website built as a working Laravel/Inertia product, not a static resume.
-
-**Stack:** Laravel, PHP, React, TypeScript, Inertia.js, Tailwind CSS, Framer Motion, MySQL, PHPUnit
-
-- Business-focused homepage, services, recommendations, featured projects, case studies, articles, and contact sections
-- Public service pages for Launch Sprint, Operations System Sprint, and AI Operations Platform
-- Database-backed service packages and dashboard content management
-- Product positioning focused on business outcomes, not just code samples
-
-[![Website](https://img.shields.io/badge/Live_Website-mohiebi.com-0A66C2?style=flat-square)](https://mohiebi.com)
-[![Repository](https://img.shields.io/badge/Repository-Portfolio-181717?style=flat-square&logo=github)](https://github.com/mohiebi/Portfolio)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI Routine Coach</h3>
+      <p>Telegram-based routine tracking and premium AI coaching platform — built as a real product, not a demo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Deterministic core: goals, streaks, health scores, notifications</li>
+        <li>Premium AI layer: coaching, recommendations, optimization</li>
+        <li>Crypto checkout with EVM stablecoin payment verification</li>
+        <li>AI usage logging, structured JSON outputs, cost tracking</li>
+      </ul>
+      <p>
+        <a href="https://t.me/AIRoutineCoachBot"><img src="https://img.shields.io/badge/Open_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://github.com/mohiebi/AI-Routine-Coach"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Portfolio / Business Platform</h3>
+      <p>Personal portfolio built as a working Laravel/Inertia product — not a static resume.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHPUnit-6C78AF?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Database-backed service packages and dashboard</li>
+        <li>Public service pages: Launch Sprint, Ops System Sprint</li>
+        <li>Business positioning focused on outcomes, not just code</li>
+        <li>Framer Motion animations and product-focused UX</li>
+      </ul>
+      <p>
+        <a href="https://mohiebi.com"><img src="https://img.shields.io/badge/Live_Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+        &nbsp;
+        <a href="https://github.com/mohiebi/Portfolio"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CashPilot / Finance Manager</h3>
+      <p>Personal finance dashboard with native support for Persian banking data and Jalali calendar.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <ul>
+        <li>CSV import with validation, preview, duplicate detection</li>
+        <li>Persian/Arabic digit normalization and Rial→Toman conversion</li>
+        <li>Jalali→Gregorian date conversion for local bank reports</li>
+        <li>Shared transaction logic for web and mobile/API</li>
+      </ul>
+      <p>
+        <a href="https://github.com/mohiebi/FinanceManager"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mahdieh Design Case Study</h3>
+      <p>Client portfolio website built as a polished product sample for presenting creative work professionally.</p>
+      <br/>
+      <ul>
+        <li>Portfolio presentation and personal branding</li>
+        <li>Responsive UI with visual storytelling</li>
+        <li>Conversion-focused layout and trust-building design</li>
+        <li>Clear service presentation for a creative client</li>
+      </ul>
+      <p>
+        <a href="https://mahdiehdesign.com"><img src="https://img.shields.io/badge/Live_Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
-
-### CashPilot / Finance Manager
-
-Personal finance dashboard for tracking costs, incomes, categories, and CSV-based transaction imports.
-
-**Stack:** Laravel, Inertia, TypeScript, MySQL, PHP tests
-
-- CSV import flow with validation, preview, duplicate detection, and import confirmation
-- Persian and Arabic digit normalization
-- Jalali date conversion to Gregorian
-- Rial-to-Toman conversion and Persian-friendly bank report handling
-- Shared transaction save logic for web and mobile/API use
-
-[![Repository](https://img.shields.io/badge/Repository-FinanceManager-181717?style=flat-square&logo=github)](https://github.com/mohiebi/FinanceManager)
-
----
-
-### Mahdieh Design / Cutie Portfolio Case Study
-
-Portfolio website built as a polished product sample for presenting creative work.
-
-**Focus:** portfolio presentation, personal branding, responsive UI, visual storytelling, and conversion-focused layout
-
-- Built as a product sample and case study
-- Designed to present creative work professionally
-- Focused on visual quality, trust, and clear service presentation
-- Public website available while the repository is currently private
-
-[![Live Website](https://img.shields.io/badge/Live_Website-mahdiehdesign.com-0A66C2?style=flat-square)](https://mahdiehdesign.com)
 
 ## Tech Stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Doctrine](https://img.shields.io/badge/Doctrine-FF6C37?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-222222?style=flat-square)
+<div align="center">
 
-## What I Build
+**Backend**<br/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-- Backend services with REST APIs, authentication, validation, queues, background jobs, and clean module boundaries
-- Laravel/Inertia products with dashboards, business logic, policies, testing, and database-backed content
-- AI-assisted systems where AI enhances the product without replacing deterministic core logic
-- Automation platforms for finance, routines, workflows, operations, and business processes
-- Frontend interfaces with Vue, React, TypeScript, Tailwind CSS, animation, and product-focused UX
-- Web3 experiments with wallets, smart contracts, stablecoin payments, and on-chain verification
+<br/>
 
-## Selected Repositories
+**Frontend**<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Laravel / PHP / Vue / React
+<br/>
 
-- [Portfolio](https://github.com/mohiebi/Portfolio) - personal business services platform
-- [FinanceManager](https://github.com/mohiebi/FinanceManager) - CashPilot finance dashboard
-- [Laravel-Vue-RealEstate](https://github.com/mohiebi/Laravel-Vue-RealEstate) - full-stack real estate marketplace
-- [JobBoard-Laravel10](https://github.com/mohiebi/JobBoard-Laravel10) - Laravel job board project
+**Data & Infrastructure**<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FF6C37?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### NestJS / TypeScript
+<br/>
 
-- [AI-Routine-Coach](https://github.com/mohiebi/AI-Routine-Coach) - Telegram routine tracking and AI coaching product
-- [mind-ledger](https://github.com/mohiebi/mind-ledger) - modular NestJS productivity/finance backend
-- [ONPER](https://github.com/mohiebi/ONPER) - running training app
-- [NestJs-TaskManager](https://github.com/mohiebi/NestJs-TaskManager) - NestJS task management API
+**AI & Web3**<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-222222?style=flat-square)
 
-### Solidity / Foundry
+</div>
 
-- [FundMe](https://github.com/mohiebi/FundMe)
-- [Lottery](https://github.com/mohiebi/Lottery)
-- [SimpleStorage](https://github.com/mohiebi/SimpleStorage)
+---
 
 ## GitHub Stats
 
-<p>
-  <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img width="420" src="https://github-contribution-stats.vercel.app/api/?username=mohiebi" alt="Mohammad Hosein's GitHub contribution stats" />
-  </a>
-</p>
+<div align="center">
 
-## Contact
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohiebi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=94A3B8&count_private=true" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohiebi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=94A3B8&langs_count=8" alt="Top Languages"/>
 
-- Website: [mohiebi.com](https://mohiebi.com)
-- Telegram Bot: [AI Routine Coach](https://t.me/AIRoutineCoachBot)
-- GitHub: [github.com/mohiebi](https://github.com/mohiebi)
+</div>
 
-Thanks for stopping by.
+---
+
+## More Repositories
+
+<details>
+<summary><b>Laravel / PHP / Vue / React</b></summary>
+<br/>
+
+- [Portfolio](https://github.com/mohiebi/Portfolio) — personal business services platform
+- [FinanceManager](https://github.com/mohiebi/FinanceManager) — CashPilot finance dashboard
+- [Laravel-Vue-RealEstate](https://github.com/mohiebi/Laravel-Vue-RealEstate) — full-stack real estate marketplace
+- [JobBoard-Laravel10](https://github.com/mohiebi/JobBoard-Laravel10) — Laravel job board application
+
+</details>
+
+<details>
+<summary><b>NestJS / TypeScript</b></summary>
+<br/>
+
+- [AI-Routine-Coach](https://github.com/mohiebi/AI-Routine-Coach) — Telegram routine tracking and AI coaching product
+- [mind-ledger](https://github.com/mohiebi/mind-ledger) — modular productivity and finance backend
+- [ONPER](https://github.com/mohiebi/ONPER) — running training app backend
+- [NestJs-TaskManager](https://github.com/mohiebi/NestJs-TaskManager) — task management REST API
+
+</details>
+
+<details>
+<summary><b>Solidity / Web3 — Learning & Experiments</b></summary>
+<br/>
+
+Hands-on experiments with Solidity, Foundry, and Chainlink — exploring EVM contracts, on-chain randomness, and decentralized funding patterns.
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-222222?style=flat-square)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
+
+- [FundMe](https://github.com/mohiebi/FundMe) — Chainlink price feed funding contract with owner-only withdrawal
+- [Lottery](https://github.com/mohiebi/Lottery) — VRF-based randomized lottery using Chainlink VRF
+- [SimpleStorage](https://github.com/mohiebi/SimpleStorage) — on-chain storage basics with Foundry test suite
+
+</details>
+
+---
+
+<div align="center">
+
+### Let's Build Something
+
+If you have a project to ship, a workflow to clean up, or a product idea to launch — I'd love to hear about it.
+
+[![Get in Touch](https://img.shields.io/badge/Visit_mohiebi.com-Get_in_Touch-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohiebi.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:1E293B,100:0D1117&height=120&section=footer" width="100%"/>
+
+</div>
