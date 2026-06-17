@@ -2,10 +2,21 @@
 
 I'm a backend-focused full-stack engineer building practical business systems with Laravel, Symfony, NestJS, Vue, React, automation, AI integrations, and Web3 infrastructure.
 
-I like turning messy workflows into clean products: APIs, dashboards, Telegram bots, finance tools, automation platforms, and portfolio-grade SaaS-style applications.
+I like turning messy workflows into clean products: APIs, dashboards, Telegram bots, finance tools, automation platforms, portfolio websites, and SaaS-style applications.
 
 [![Website](https://img.shields.io/badge/Website-mohiebi.com-0A66C2?style=for-the-badge)](https://mohiebi.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mohiebi-181717?style=for-the-badge&logo=github)](https://github.com/mohiebi)
+[![Telegram Bot](https://img.shields.io/badge/AI_Routine_Coach-Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIRoutineCoachBot)
+
+## Engineering Snapshot
+
+- **1.57k+ commits this year**
+- **86+ commits this month**
+- **24 pull requests**
+- **20 issues**
+- **90+ real production tasks completed in Symfony/Vue**
+- **Multiple Laravel, NestJS, Vue, React, AI, automation, and Web3 projects built**
+- **Product focus:** business automation, dashboards, AI workflows, finance tools, Telegram bots, and portfolio-grade web platforms
 
 ## What I Build
 
@@ -13,12 +24,29 @@ I like turning messy workflows into clean products: APIs, dashboards, Telegram b
 - Laravel/Inertia products with dashboards, business logic, admin workflows, policies, testing, and database-backed content
 - AI-assisted systems where AI enhances the product without replacing deterministic core logic
 - Automation platforms for finance, routines, workflows, operations, and business processes
+- Frontend interfaces with Vue, React, TypeScript, Tailwind CSS, animation, and product-focused UX
 - Web3 experiments with wallets, smart contracts, stablecoin payments, and on-chain verification
-- Frontend interfaces with Vue, React, TypeScript, Tailwind CSS, and product-focused UX
 
-## Featured Projects
+## Main Product Work
+
+### Portfolio / Business Services Platform
+
+My personal portfolio website built as a working Laravel/Inertia product, not a static resume.
+
+**Stack:** Laravel, PHP, React, TypeScript, Inertia.js, Tailwind CSS, Framer Motion, MySQL, PHPUnit
+
+- Business-focused homepage, services, recommendations, featured projects, case studies, articles, and contact sections
+- Public service pages for **Launch Sprint**, **Operations System Sprint**, and **AI Operations Platform**
+- Database-backed service packages and dashboard content management
+- Real product positioning for my freelance/business offers
+- Built to present my work as business outcomes, not just code samples
+
+[Website](https://mohiebi.com) · [Repository](https://github.com/mohiebi/Portfolio)
+
+---
 
 ### AI Routine Coach
+
 Telegram-based routine tracking and premium AI coaching platform.
 
 **Stack:** NestJS, TypeScript, PostgreSQL, Prisma, Redis, BullMQ, Telegraf, OpenAI, Docker, Swagger
@@ -27,78 +55,63 @@ Telegram-based routine tracking and premium AI coaching platform.
 - Premium AI layer for coaching, goal review, routine recommendations, progress insights, and routine optimization
 - Crypto checkout flow with EVM stablecoin payment verification
 - AI usage logging, structured JSON outputs, DTO validation, and cost tracking
+- Built as a real product, not only a coding practice project
 
-[Repository](https://github.com/mohiebi/AI-Routine-Coach)
+[Telegram Bot](https://t.me/AIRoutineCoachBot) · [Repository](https://github.com/mohiebi/AI-Routine-Coach)
 
-### Portfolio / Business Services Platform
-My personal portfolio website built as a working Laravel/Inertia product, not a static resume.
-
-**Stack:** Laravel, PHP, React, TypeScript, Inertia.js, Tailwind CSS, Framer Motion, MySQL, PHPUnit
-
-- Portfolio homepage, services, recommendations, featured projects, case studies, articles, and contact sections
-- Database-backed service packages and dashboard content management
-- Public service pages for Launch Sprint, Operations System Sprint, and AI Operations Platform
-- Real demo applications and project showcases inside the portfolio
-
-[Website](https://mohiebi.com) · [Repository](https://github.com/mohiebi/Portfolio)
+---
 
 ### CashPilot / Finance Manager
+
 Personal finance dashboard for tracking costs, incomes, categories, and CSV-based transaction imports.
 
 **Stack:** Laravel, Inertia, TypeScript, MySQL, PHP tests
 
-- Shared transaction save logic for web and mobile/API use
 - CSV import flow with validation, preview, duplicate detection, and import confirmation
 - Persian/Arabic digit normalization
 - Jalali date conversion to Gregorian
 - Rial-to-Toman conversion and Persian-friendly bank report handling
+- Shared transaction save logic for web and mobile/API use
+- Built to solve a real personal finance workflow with local banking data complexity
 
 [Repository](https://github.com/mohiebi/FinanceManager)
 
-### MindLedger Core
-A modular NestJS backend for personal productivity and finance tracking.
+---
 
-**Stack:** NestJS, PostgreSQL, TypeORM, JWT, Swagger, Docker, GitLab CI/CD, Jest
+### Mahdieh Design / Cutie Portfolio Case Study
 
-- JWT authentication with rotating refresh tokens
-- RBAC, task management, finance tracking, and monthly summaries
-- Modular monolith structure with clean domain separation
-- Unit and e2e testing with Jest and Supertest
+A portfolio website built as a real client/product sample for presenting design work with a polished public-facing experience.
 
-[Repository](https://github.com/mohiebi/mind-ledger)
+**Focus:** portfolio presentation, personal branding, responsive UI, visual storytelling, and conversion-focused layout
 
-### Laravel Vue Real Estate Marketplace
-A full-stack real estate marketplace.
+- Built as a product sample/case study
+- Designed to present creative work professionally
+- Focused on visual quality, trust, and clear service presentation
+- Currently private repository, public website available
 
-**Stack:** Laravel, Vue 3, Inertia.js, TypeScript, Tailwind CSS, Eloquent, Laravel Notifications, Queues, PHPUnit
+[Live Website](https://mahdiehdesign.com)
 
-- Public listing browse and detail pages
-- Realtor dashboard for listings, images, offers, and notifications
-- Buyer offer submission and acceptance workflow
-- Soft deletes, sold state, database notifications, policies, and tests
+## Selected Repositories
 
-[Repository](https://github.com/mohiebi/Laravel-Vue-RealEstate)
+### Laravel / PHP / Vue / React
 
-### ONPER
-A running training app for marathon preparation.
+- [Portfolio](https://github.com/mohiebi/Portfolio) — personal business services platform
+- [FinanceManager](https://github.com/mohiebi/FinanceManager) — CashPilot finance dashboard
+- [Laravel-Vue-RealEstate](https://github.com/mohiebi/Laravel-Vue-RealEstate) — full-stack real estate marketplace
+- [JobBoard-Laravel10](https://github.com/mohiebi/JobBoard-Laravel10) — Laravel job board project
 
-**Stack:** NestJS, Prisma, PostgreSQL, JWT, Swagger, Vue 3, Pinia, TailwindCSS, Docker
+### NestJS / TypeScript
 
-- Goal setting for 5K, 10K, half marathon, and full marathon
-- Auto-generated training plans
-- Progress tracking, dashboard, and motivation system
-- Dockerized full-stack setup with backend, frontend, and database
+- [AI-Routine-Coach](https://github.com/mohiebi/AI-Routine-Coach) — Telegram routine tracking and AI coaching product
+- [mind-ledger](https://github.com/mohiebi/mind-ledger) — modular NestJS productivity/finance backend
+- [ONPER](https://github.com/mohiebi/ONPER) — running training app
+- [NestJs-TaskManager](https://github.com/mohiebi/NestJs-TaskManager) — NestJS task management API
 
-[Repository](https://github.com/mohiebi/ONPER)
+### Solidity / Foundry
 
-## Current Focus
-
-- Building production-style Laravel/Inertia and NestJS applications
-- Designing backend architectures with authentication, validation, testing, queues, and clean module boundaries
-- Creating AI-assisted systems where AI is separated from deterministic business logic
-- Building automation tools for finance, habits, workflows, and business operations
-- Improving DevOps, Docker, CI/CD, and deployment practices
-- Moving deeper into Web3 payment flows, wallet integrations, and smart contract tooling
+- [FundMe](https://github.com/mohiebi/FundMe)
+- [Lottery](https://github.com/mohiebi/Lottery)
+- [SimpleStorage](https://github.com/mohiebi/SimpleStorage)
 
 ## Tech Stack
 
@@ -117,28 +130,6 @@ A running training app for marathon preparation.
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-222222?style=for-the-badge)
 
-## More Repositories
-
-**NestJS / TypeScript**
-
-- [AI-Routine-Coach](https://github.com/mohiebi/AI-Routine-Coach)
-- [mind-ledger](https://github.com/mohiebi/mind-ledger)
-- [ONPER](https://github.com/mohiebi/ONPER)
-- [NestJs-TaskManager](https://github.com/mohiebi/NestJs-TaskManager)
-
-**Laravel / PHP / Vue / React**
-
-- [Portfolio](https://github.com/mohiebi/Portfolio)
-- [FinanceManager](https://github.com/mohiebi/FinanceManager)
-- [Laravel-Vue-RealEstate](https://github.com/mohiebi/Laravel-Vue-RealEstate)
-- [JobBoard-Laravel10](https://github.com/mohiebi/JobBoard-Laravel10)
-
-**Solidity / Foundry**
-
-- [FundMe](https://github.com/mohiebi/FundMe)
-- [Lottery](https://github.com/mohiebi/Lottery)
-- [SimpleStorage](https://github.com/mohiebi/SimpleStorage)
-
 ## GitHub Stats
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mohiebi)](https://github.com/LordDashMe/github-contribution-stats/)
@@ -146,6 +137,7 @@ A running training app for marathon preparation.
 ## Contact
 
 - Website: [mohiebi.com](https://mohiebi.com)
+- Telegram Bot: [AI Routine Coach](https://t.me/AIRoutineCoachBot)
 - GitHub: [github.com/mohiebi](https://github.com/mohiebi)
 
 Thanks for stopping by.
